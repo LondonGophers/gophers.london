@@ -28,6 +28,7 @@ task :publish do
     pwd = Dir.pwd
     Dir.chdir tmp
     system "git clone https://github.com/#{GITHUB_REPONAME} ."
+    system "git checkout master"
     cp_r Dir.glob(File.join(pwd, "_site/")+"*"), tmp
     system "ls"
     system "git add -A ."
