@@ -1,19 +1,14 @@
 ### Editing and publishing gophers.london
 
-For now, we are using https://jekyllrb.com as a site generator, largely because it has some good, clean default themes,
-and we don't have much to say via the website, other than to sign-post to our other web presences. But certainly not
-wedded to this approach!
+We use [Hugo](https://gohugo.io) for building https://gophers.london.
 
-This repo comprises two branches:
-
-* `source` - surprise, surprise, the source of the website can be found
-* `master` - the published version of the site
+The source and published site are both found in the `master` branch. The published site is served from the
+[`docs`](docs) directory.
 
 Making changes/running locally:
 
 * Clone this repo
-* Install Ruby (`v2.4.x` or later)
-* Install bundler: `gem instal bundler`
-* Run `bundle install` from the root of this repo
-* Run `bundle exec jekyll serve` to serve locally
-* Once you are happy with any local changes, `JEKYLL_ENV=production rake publish`
+* Run `go run -tags extended github.com/gohugoio/hugo serve -D` to serve locally (this will live reload)
+* Once you are happy with any local changes, `go run -tags extended github.com/gohugoio/hugo`
+* Create a PR, and check that [CI](https://travis-ci.org/go-london-user-group/gophers.london) passes
+* Merging the PR to `master` will cause https://gophers.london to be rebuilt

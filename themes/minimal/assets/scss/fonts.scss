@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('{{(resources.Get "fonts/Noto-Sans-regular/Noto-Sans-regular.eot").Permalink}}');
+  src: url('{{(resources.Get "fonts/Noto-Sans-regular/Noto-Sans-regular.eot").Permalink}}#iefix') format('embedded-opentype'),
+       local('Noto Sans'),
+       local('Noto-Sans-regular'),
+       url('{{(resources.Get "fonts/Noto-Sans-regular/Noto-Sans-regular.woff2").Permalink}}') format('woff2'),
+       url('{{(resources.Get "fonts/Noto-Sans-regular/Noto-Sans-regular.woff").Permalink}}') format('woff'),
+       url('{{(resources.Get "fonts/Noto-Sans-regular/Noto-Sans-regular.ttf").Permalink}}') format('truetype'),
+       url('{{(resources.Get "fonts/Noto-Sans-regular/Noto-Sans-regular.svg").Permalink}}#NotoSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('{{(resources.Get "fonts/Noto-Sans-700/Noto-Sans-700.eot").Permalink}}');
+  src: url('{{(resources.Get "fonts/Noto-Sans-700/Noto-Sans-700.eot").Permalink}}#iefix') format('embedded-opentype'),
+       local('Noto Sans Bold'),
+       local('Noto-Sans-700'),
+       url('{{(resources.Get "fonts/Noto-Sans-700/Noto-Sans-700.woff2").Permalink}}') format('woff2'),
+       url('{{(resources.Get "fonts/Noto-Sans-700/Noto-Sans-700.woff").Permalink}}') format('woff'),
+       url('{{(resources.Get "fonts/Noto-Sans-700/Noto-Sans-700.ttf").Permalink}}') format('truetype'),
+       url('{{(resources.Get "fonts/Noto-Sans-700/Noto-Sans-700.svg").Permalink}}#NotoSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url('{{(resources.Get "fonts/Noto-Sans-italic/Noto-Sans-italic.eot").Permalink}}');
+  src: url('{{(resources.Get "fonts/Noto-Sans-italic/Noto-Sans-italic.eot").Permalink}}#iefix') format('embedded-opentype'),
+       local('Noto Sans Italic'),
+       local('Noto-Sans-italic'),
+       url('{{(resources.Get "fonts/Noto-Sans-italic/Noto-Sans-italic.woff2").Permalink}}') format('woff2'),
+       url('{{(resources.Get "fonts/Noto-Sans-italic/Noto-Sans-italic.woff").Permalink}}') format('woff'),
+       url('{{(resources.Get "fonts/Noto-Sans-italic/Noto-Sans-italic.ttf").Permalink}}') format('truetype'),
+       url('{{(resources.Get "fonts/Noto-Sans-italic/Noto-Sans-italic.svg").Permalink}}#NotoSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: url('{{(resources.Get "fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot").Permalink}}');
+  src: url('{{(resources.Get "fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot").Permalink}}#iefix') format('embedded-opentype'),
+       local('Noto Sans Bold Italic'),
+       local('Noto-Sans-700italic'),
+       url('{{(resources.Get "fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2").Permalink}}') format('woff2'),
+       url('{{(resources.Get "fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff").Permalink}}') format('woff'),
+       url('{{(resources.Get "fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf").Permalink}}') format('truetype'),
+       url('{{(resources.Get "fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg").Permalink}}#NotoSans') format('svg');
+}

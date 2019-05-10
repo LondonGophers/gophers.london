@@ -1,0 +1,9 @@
+<header>
+  {{ if ne "" .Site.Title }}
+  <h1><a href="{{ relURL "/" }}">{{ .Site.Title }}</a></h1>
+  {{ end }}
+
+  {{ if ne "" .Site.Params.Logo }}
+  <img src="{{ relURL .Site.Params.Logo }}" alt="Logo" />
+  {{ end }}
+</header>
