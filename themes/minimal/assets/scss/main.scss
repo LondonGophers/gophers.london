@@ -112,7 +112,7 @@ header {
 
 ul.downloads {
   list-style:none;
-  height:40px;
+  height:30px;
   padding:0;
   background: #f4f4f4;
   border-radius:5px;
@@ -121,10 +121,10 @@ ul.downloads {
 }
 
 .downloads li {
-  width:89px;
+  width:65px;
   float:left;
   border-right:1px solid #e0e0e0;
-  height:40px;
+  height:30px;
 }
 
 .downloads li:first-child a {
@@ -137,7 +137,7 @@ ul.downloads {
 
 .downloads a {
   line-height:1;
-  font-size:11px;
+  font-size:20px;
   color:#676767;
   display:block;
   text-align:center;
@@ -159,9 +159,9 @@ strong {
   font-weight:700;
 }
 
-.downloads li + li + li {
+.downloads li + li + li +li {
   border-right:none;
-  width:89px;
+  width:65px;
 }
 
 .downloads a strong {
@@ -257,8 +257,8 @@ footer {
     width:99%;
   }
 
-  .downloads li, .downloads li + li + li {
-    width:33%;
+  .downloads li, .downloads li + li + li + li {
+    width:24%;
   }
 }
 

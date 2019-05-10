@@ -6,3 +6,4 @@ publishDir = "docs"
 theme = "minimal"
 [params]
   logo = "images/logo.png"
+  description = "A London-based community for anyone interested in the Go programming language"

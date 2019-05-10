@@ -4,6 +4,15 @@
   {{ end }}
 
   {{ if ne "" .Site.Params.Logo }}
-  <img src="{{ relURL .Site.Params.Logo }}" alt="Logo" />
+  <img src="{{ relURL .Site.Params.Logo }}" alt="Logo" style="margin-bottom:20px"/>
   {{ end }}
+
+  <p>{{ .Site.Params.Description }}</p>
+
+  <ul class="downloads">
+    <li><a href="https://www.meetup.com/Go-London-User-Group/"><i class="fab fa-meetup" aria-hidden="true"></i></a></li>
+    <li><a href="https://www.youtube.com/c/LondonGophers"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+    <li><a href="https://twitter.com/LondonGophers"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
+    <li><a href="https://github.com/go-london-user-group"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+  </ul>
 </header>
