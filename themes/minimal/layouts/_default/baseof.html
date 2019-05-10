@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        <div class="wrapper">
+        {{- partial "header.html" . -}}
+        <section>
+        {{- block "main" . }}{{- end }}
+        </section>
+        {{- partial "footer.html" . -}}
+        </div>
+        <script src="{{ relURL "js/scale.fix.js" }}"></script>
+    </body>
+</html>
