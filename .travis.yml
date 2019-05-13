@@ -19,6 +19,7 @@ install: "echo no install step required"
 
 script:
   - go mod tidy
+  - rm -rf docs
   - go run -tags extended github.com/gohugoio/hugo
   - if [[ -n $CHECK_GOFMT ]]; then diff <(echo -n) <(gofmt -d .); fi
   - test -z "$(git status --porcelain)" || (git status; git diff; false)
