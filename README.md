@@ -9,6 +9,6 @@ Making changes/running locally:
 
 * Clone this repo
 * Run `go run -tags extended github.com/gohugoio/hugo serve -D` to serve locally (this will live reload)
-* Once you are happy with any local changes, `go run -tags extended github.com/gohugoio/hugo`
+* Once you are happy with any local changes, `go run -tags extended github.com/gohugoio/hugo --cleanDestinationDir`
 * Create a PR, and check that [CI](https://travis-ci.org/go-london-user-group/gophers.london) passes
 * Merging the PR to `master` will cause https://gophers.london to be rebuilt
