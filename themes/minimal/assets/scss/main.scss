@@ -27,10 +27,23 @@ h1 {
 
 h2 {
   color:#393939;
+  margin: 30px 0 10px 0;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
+}
+
+.sponsors {
+  text-align: center;
+}
+
+.sponsors h2 {
+  color:#267CB9;
+}
+
+.sponsors img {
+  max-width: 70%;
 }
 
 a {
