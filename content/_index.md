@@ -24,4 +24,11 @@ London Gophers operate under the [Go Community Code of Conduct](https://golang.o
 For any questions about London Gophers, our Meetups, speaking at one of our events, sponsoring one of our events,
 hosting one of our events, please get in touch with [the organisers](mailto:glug-organisers@googlegroups.com).
 
+### Sponsors
+
+<div class="sponsors">
+<a href="https://monzo.com" target="_blank"><img alt="Monzo logo" src="/images/sponsors/monzo.png"/></a>
+<a href="https://thisisbud.com" target="_blank"><img alt="Bud logo" src="/images/sponsors/bud.png"/></a>
+<a href="https://www.vistasrecruitment.com" target="_blank"><img alt="Vistas Recruitment logo" src="/images/sponsors/vistas.png"/></a>
+</div>
 
