@@ -1,4 +1,4 @@
-module github.com/go-london-user-group/gophers.london
+module github.com/LondonGophers/gophers.london
 
 go 1.12
 
