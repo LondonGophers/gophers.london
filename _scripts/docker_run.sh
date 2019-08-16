@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
-set -x
+# Script designed to be run from within a Docker container.
+# You probably want run_docker_run.sh
+
+set -ex
 
 export HOME=$(mktemp -d)
 export GO111MODULE=on
