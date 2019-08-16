@@ -24,6 +24,6 @@ before_install:
 install: "echo no install step required"
 
 script:
-  - docker run --rm -v $PWD:/gophers.london -w /gophers.london --user $(id -u):$(id -g) golang:1.12.8 ./_scripts/docker_run.sh
+  - ./_scripts/run_docker_run.sh
   - if [[ -n $CHECK_GOFMT ]]; then diff <(echo -n) <(gofmt -d .); fi
   - test -z "$(git status --porcelain)" || (git status; git diff; false)
