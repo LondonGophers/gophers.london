@@ -29,6 +29,7 @@ hosting one of our events, please get in touch with [the organisers](mailto:glug
 <div class="sponsors">
 <a href="https://monzo.com" target="_blank"><img alt="Monzo logo" src="/images/sponsors/monzo.png"/></a>
 <a href="https://thisisbud.com" target="_blank"><img alt="Bud logo" src="/images/sponsors/bud.png"/></a>
+<a href="https://www.utilitywarehouse.co.uk" target="_blank"><img alt="Utility Warehouse logo" src="/images/sponsors/utilitywarehouse.png"/></a>
 <a href="https://www.vistasrecruitment.com" target="_blank"><img alt="Vistas Recruitment logo" src="/images/sponsors/vistas.png"/></a>
 </div>
 
