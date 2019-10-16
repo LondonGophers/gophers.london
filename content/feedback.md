@@ -1,4 +1,4 @@
 ---
 type: redirect
-redirectURL: https://joind.in/event/go-london-user-group-september-gophers/schedule/list
+redirectURL: https://joind.in/event/go-london-user-group-october-gophers/schedule/list
 ---
