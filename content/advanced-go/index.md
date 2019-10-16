@@ -7,7 +7,8 @@ date: 2019-10-15T15:28:25+01:00
 
 Enter the London Gophers _"Advanced Ultimate Go"_ raffle to win a place on this [Ardan Labs](https://www.ardanlabs.com/)
 course! Full details of the course are available
-[here](https://www.eventbrite.com/e/3-day-advanced-ultimate-go-training-london-november-2019-tickets-72938134925).
+[here](https://www.eventbrite.com/e/3-day-advanced-ultimate-go-training-london-november-2019-tickets-72938134925), where
+you can also use the discount code `GoMeetup50` for a $50 discount.
 
 First things first, follow us on Twitter:
 
