@@ -47,5 +47,5 @@ Beth Anderson, Benjamin Bryant, Dom Green, Paul Jolly, Antonio Troina, Kat Zień
 
 ### Organiser Alumni
 
-Irina Bednova, Matt Heath, Patrick Kuti, Florin Pățan.
+Irina Bednova, Matt Heath, Patrick O. S. Kuti, Florin Pățan.
 
