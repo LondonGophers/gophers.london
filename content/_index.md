@@ -26,10 +26,26 @@ hosting one of our events, please get in touch with [the organisers](mailto:glug
 
 ### Sponsors
 
+London Gophers is a volunteer-run organisation that seeks to remain as friendly and welcoming as possible to everyone.
+Therefore membership of London Gophers is 100% free and we do not charge for attending events. Not only that, but we
+provide food and drink at all of our events. We therefore rely on sponsorship to cover our costs. Thank you to our
+sponsors!
+
 <div class="sponsors">
 <a href="https://monzo.com" target="_blank"><img alt="Monzo logo" src="/images/sponsors/monzo.png"/></a>
 <a href="https://thisisbud.com" target="_blank"><img alt="Bud logo" src="/images/sponsors/bud.png"/></a>
 <a href="https://www.utilitywarehouse.co.uk" target="_blank"><img alt="Utility Warehouse logo" src="/images/sponsors/utilitywarehouse.jpg"/></a>
 <a href="https://www.vistasrecruitment.com" target="_blank"><img alt="Vistas Recruitment logo" src="/images/sponsors/vistas.png"/></a>
 </div>
+
+<br/>
+<br/>
+
+### Current Organisers
+
+Beth Anderson, Benjamin Bryant, Dom Green, Paul Jolly, Antonio Troina, Kat Zień.
+
+### Organiser Alumni
+
+Irina Bednova, Matt Heath, Patrick Kuti, Florin Pățan.
 
