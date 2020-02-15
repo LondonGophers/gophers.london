@@ -8,6 +8,7 @@ The source and published site are both found in the `master` branch. The publish
 Making changes/running locally:
 
 * Clone this repo
+* Run `git submodule init` and then `git submodule update` in the root directory to install the minimal Hugo theme (required to view the webpage locally)
 * Run `go run -tags extended github.com/gohugoio/hugo serve -D` to serve locally (this will live reload)
 * Once you are happy with any local changes, `go run -tags extended github.com/gohugoio/hugo --cleanDestinationDir`.
 Alternatively you can run `./_scripts/run_docker_run.sh`
