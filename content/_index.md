@@ -32,10 +32,8 @@ provide food and drink at all of our events. We therefore rely on sponsorship to
 sponsors!
 
 <div class="sponsors">
-<a href="https://monzo.com" target="_blank"><img alt="Monzo logo" src="/images/sponsors/monzo.png"/></a>
-<a href="https://thisisbud.com" target="_blank"><img alt="Bud logo" src="/images/sponsors/bud.png"/></a>
 <a href="https://www.utilitywarehouse.co.uk" target="_blank"><img alt="Utility Warehouse logo" src="/images/sponsors/utilitywarehouse.jpg"/></a>
-<a href="https://www.vistasrecruitment.com" target="_blank"><img alt="Vistas Recruitment logo" src="/images/sponsors/vistas.png"/></a>
+<a href="https://tyk.io/" target="_blank"><img alt="Tyk logo" src="/images/sponsors/tyk.png"/></a>
 </div>
 
 <br/>
