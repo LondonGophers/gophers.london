@@ -34,6 +34,7 @@ sponsors!
 <div class="sponsors">
 <a href="https://www.utilitywarehouse.co.uk" target="_blank"><img alt="Utility Warehouse logo" src="/images/sponsors/utilitywarehouse.jpg"/></a>
 <a href="https://tyk.io/" target="_blank"><img alt="Tyk logo" src="/images/sponsors/tyk.png"/></a>
+<a href="https://search.gocenter.io/" target="_blank"><img alt="JFrog GoCenter logo" src="/images/sponsors/gocenter.png"/></a>
 </div>
 
 <br/>
