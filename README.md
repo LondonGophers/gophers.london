@@ -1,11 +1,11 @@
-### Editing and publishing gophers.london
+## Editing and publishing gophers.london
 
 We use [Hugo](https://gohugo.io) for building https://gophers.london.
 
-The source and published site are both found in the `master` branch. The published site is served from the
-[`docs`](docs) directory.
+- The source of the web site can be found in the `master` branch.
+- The published site is served from the `gh-pages` branch.
 
-Making changes/running locally:
+## Running locally
 
 * Clone this repo
 * Run `git submodule init` and then `git submodule update` in the root directory to install the minimal Hugo theme (required to view the webpage locally)

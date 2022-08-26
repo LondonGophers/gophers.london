@@ -1,0 +1,40 @@
+name: Github Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Fetch submodule
+        run: >
+          git submodule init
+          git submodule update
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.59.1'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Generate
+        uses: brunoluiz/urlzap-github-action@v1
+        with:
+          config: urlzap.yml
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
