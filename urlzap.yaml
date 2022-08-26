@@ -1,6 +1,0 @@
-path: ./public
-urls:
-  speakers:
-    signup: 'https://docs.google.com/forms/d/e/1FAIpQLSeirnTIywKx5w3HVLny8pfZALUYmrqDOUTroGeUDESwqmrnSA/viewform?usp=sf_link'
-  venues:
-    opportunity: 'https://drive.google.com/file/d/1Kj4_jW8toZzoRncyU6mMc2ga8MJMbueJ/view?usp=sharing'

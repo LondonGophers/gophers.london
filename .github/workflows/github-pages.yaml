@@ -55,11 +55,6 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Generate URLs
-        uses: brunoluiz/urlzap-github-action@v1
-        with:
-          config: urlzap.yaml
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
