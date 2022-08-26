@@ -42,7 +42,7 @@ sponsors!
 
 ### Current Organisers
 
-Beth Anderson, Benjamin Bryant, Dom Green, Antonio Troina, Kat Zień.
+Beth Anderson, Benjamin Bryant, Bruno Luiz Silva, Dom Green, Antonio Troina, Kat Zień.
 
 ### Organiser Alumni
 
