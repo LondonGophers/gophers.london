@@ -2,7 +2,7 @@ baseURL = "https://gophers.london"
 languageCode = "en-gb"
 disableKinds = ["section", "taxonomy", "taxonomyTerm"]
 title = "London Gophers"
-publishDir = "docs"
+publishDir = "public"
 theme = "minimal"
 [params]
   logo = "images/logo.png"
