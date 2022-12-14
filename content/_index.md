@@ -17,7 +17,7 @@ welcome! We also have an active [Twitter feed](https://twitter.com/LondonGophers
 
 ### Code of Conduct
 
-London Gophers operate under the [Go Community Code of Conduct](https://golang.org/conduct).
+London Gophers operates under the [Go Community Code of Conduct](https://golang.org/conduct).
 
 ### Contact
 
@@ -32,19 +32,15 @@ provide food and drink at all of our events. We therefore rely on sponsorship to
 sponsors!
 
 <div class="sponsors">
-<a href="https://www.utilitywarehouse.co.uk" target="_blank"><img alt="Utility Warehouse logo" src="/images/sponsors/utilitywarehouse.jpg"/></a>
-<a href="https://tyk.io/" target="_blank"><img alt="Tyk logo" src="/images/sponsors/tyk.png"/></a>
-<a href="https://search.gocenter.io/" target="_blank"><img alt="JFrog GoCenter logo" src="/images/sponsors/gocenter.png"/></a>
 </div>
 
-<br/>
 <br/>
 
 ### Current Organisers
 
-Beth Anderson, Benjamin Bryant, Bruno Luiz Silva, Dom Green, Antonio Troina, Kat Zień.
+Beth Anderson, Benjamin Bryant, Bruno Luiz Silva.
 
 ### Organiser Alumni
 
-Irina Bednova, Matt Heath, Paul Jolly, Patrick O. S. Kuti, Florin Pățan.
+Dom Green, Antonio Troina, Kat Zień, Irina Bednova, Matt Heath, Paul Jolly, Patrick O. S. Kuti, Florin Pățan.
 
