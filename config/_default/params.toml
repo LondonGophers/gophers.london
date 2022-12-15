@@ -29,41 +29,41 @@ logo = "logo/LONDON-GOPHERS-300.png"
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "images/backgrounds/cover_website_banner_no_logo.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = false
   #showViews = true
   #showLikes = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
+  showHeadingAnchors = false
+  showPagination = false
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false 
   showAuthorsBadges = false 
   showWordCount = false
-  showSummary = true
+  showSummary = false
   sharingLinks = [] # [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]

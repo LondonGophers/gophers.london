@@ -1,8 +1,5 @@
 ---
 title: "JetBrains Raffle"
-date: 2019-05-09T15:28:25+01:00
-showViews: true
-colorScheme: "fire"
 ---
 
 Enter the London Gophers [JetBrains](https://www.jetbrains.com) raffle!
