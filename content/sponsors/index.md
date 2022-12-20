@@ -5,11 +5,66 @@ layoutBackgroundBlur: false
 
 London Gophers is a volunteer-run organisation that seeks to remain as friendly and welcoming as possible to everyone. 
 Therefore, membership of London Gophers is 100% free, and we do not charge for attending events. Not only that, 
-but we provide food and drink at all of our events. We therefore rely on sponsorship to cover our costs. 
+but we provide food and drinks at all of our events. We therefore rely on sponsorship to cover our costs. 
 Thank you to our sponsors!
 
 ## Venue Sponsors
 These are the venues that have hosted us in the past few months. Thank you!
+
+### TrueLayer
+{{< figure
+src="images/2022_12_truelayer.png"
+alt="TrueLayer Logo"
+link="https://truelayer.com/"
+target="_blank"
+height="80%"
+width="80%"
+default=true
+>}}
+
+### SaltPay
+{{< figure
+src="images/2022_11_saltpay.png"
+alt="SaltPay Logo"
+link="https://www.saltpay.co/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
+### Checkout
+{{< figure
+src="images/2022_10_checkout.png"
+alt="Checkout Logo"
+link="https://www.checkout.com/"
+target="_blank"
+height="80%"
+width="80%"
+default=true
+>}}
+
+### Monzo
+{{< figure
+src="images/2022_09_monzo.png"
+alt="Checkout Logo"
+link="https://monzo.com/"
+target="_blank"
+height="60%"
+width="60%"
+default=true
+>}}
+
+### Pusher
+{{< figure
+src="images/2022_07_pusher.png"
+alt="Pusher Logo"
+link="https://pusher.com/"
+target="_blank"
+height="80%"
+width="80%"
+default=true
+>}}
 
 ## How to Sponsor London Gophers
 

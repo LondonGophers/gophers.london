@@ -12,6 +12,8 @@ autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
 
+disableImageZoom = true
+
 logo = "logo/LONDON-GOPHERS-300.png"
 # mainSections = ["section1", "section2"]
 # robots = ""
