@@ -17,8 +17,8 @@ src="images/2022_12_truelayer.png"
 alt="TrueLayer Logo"
 link="https://truelayer.com/"
 target="_blank"
-height="80%"
-width="80%"
+height="70%"
+width="70%"
 default=true
 >}}
 
@@ -39,8 +39,8 @@ src="images/2022_10_checkout.png"
 alt="Checkout Logo"
 link="https://www.checkout.com/"
 target="_blank"
-height="80%"
-width="80%"
+height="70%"
+width="70%"
 default=true
 >}}
 
@@ -50,8 +50,8 @@ src="images/2022_09_monzo.png"
 alt="Checkout Logo"
 link="https://monzo.com/"
 target="_blank"
-height="60%"
-width="60%"
+height="70%"
+width="70%"
 default=true
 >}}
 
@@ -61,8 +61,8 @@ src="images/2022_07_pusher.png"
 alt="Pusher Logo"
 link="https://pusher.com/"
 target="_blank"
-height="80%"
-width="80%"
+height="70%"
+width="70%"
 default=true
 >}}
 
