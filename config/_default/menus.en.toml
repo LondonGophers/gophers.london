@@ -59,14 +59,30 @@
 
 
 [[footer]]
-   name = "Code of Conduct"
-   url = "https://go.dev/conduct"
-   weight = 10
+name = "Code of Conduct"
+pageref = "conduct"
+weight = 10
 
 [[footer]]
-  name = "Meetup.com"
-  url = "https://www.meetup.com/londongophers/"
-  weight = 20
+name = "Organisers"
+pageref = "organisers"
+weight = 20
+
+[[footer]]
+title = "apply"
+name = "Apply To Speak?"
+pageRef = "apply"
+weight = 30
+
+[[footer]]
+name = "Sponsors"
+pageref = "sponsors"
+weight = 40
+
+[[footer]]
+name = "Meetup.com"
+url = "https://www.meetup.com/londongophers/"
+weight = 50
 
 # [[footer]]
 #   name = "Categories"
