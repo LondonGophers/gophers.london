@@ -27,20 +27,7 @@ Membership of London Gophers is managed via our [Meetup page](https://www.meetup
 welcome! We also have an active [Twitter feed](https://twitter.com/LondonGophers) and our members are active in the
 `#london` [Gophers Slack](https://gophers.slack.com/) ([sign-up here](https://invite.slack.golangbridge.org)).
 
-### Code of Conduct
-
-London Gophers operates under the [Go Community Code of Conduct](https://golang.org/conduct).
-
 ### Contact
 
 For any questions about London Gophers, our Meetups, speaking at one of our events, sponsoring one of our events,
 hosting one of our events, you can contact us at [contact@gophers.london](mailto:contact@gophers.london).
-
-### Current Organisers
-
-Beth Anderson, Benjamin Bryant, Bruno Luiz Silva.
-
-### Organiser Alumni
-
-Dom Green, Antonio Troina, Kat Zień, Irina Bednova, Matt Heath, Paul Jolly, Patrick O. S. Kuti, Florin Pățan.
-

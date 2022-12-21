@@ -10,31 +10,36 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 [[main]]
+  name = "Code of Conduct"
+  pageref = "conduct"
+  weight = 10
+
+[[main]]
   name = "Meetup.com"
   url = "https://www.meetup.com/londongophers/"
-  weight = 10
+  weight = 20
 
 [[main]]
   title = "apply"
   name = "Speakers"
   pageRef = "apply"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Sponsors"
   pageref = "sponsors"
-  weight = 30
+  weight = 40
 
 [[main]]
   pre = "slack"
   url = "https://gophers.slack.com/"
-  weight = 40
+  weight = 50
 
 [[main]]
   identifier = "twitter"
   pre = "twitter"
   url = "https://twitter.com/londongophers"
-  weight = 50
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
