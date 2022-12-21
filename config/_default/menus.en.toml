@@ -15,13 +15,13 @@
   weight = 10
 
 [[main]]
-  name = "Meetup.com"
-  url = "https://www.meetup.com/londongophers/"
+  name = "Organisers"
+  pageref = "organisers"
   weight = 20
 
 [[main]]
   title = "apply"
-  name = "Speakers"
+  name = "Apply To Speak?"
   pageRef = "apply"
   weight = 30
 
@@ -31,15 +31,27 @@
   weight = 40
 
 [[main]]
+  name = "Meetup.com"
+  url = "https://www.meetup.com/londongophers/"
+  weight = 50
+
+[[main]]
+  identifier = "email"
+  pre = "envelope"
+  url = "mailto:contact@gophers.london"
+  weight = 70
+
+[[main]]
+  identifier = "slack"
   pre = "slack"
   url = "https://gophers.slack.com/"
-  weight = 50
+  weight = 80
 
 [[main]]
   identifier = "twitter"
   pre = "twitter"
   url = "https://twitter.com/londongophers"
-  weight = 60
+  weight = 90
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
