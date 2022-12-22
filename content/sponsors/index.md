@@ -11,7 +11,7 @@ Thank you to our sponsors!
 ## Venue Sponsors
 These are the venues that have hosted us in the past few months. Thank you!
 
-### [TrueLayer](https://truelayer.com/)
+### TrueLayer
 Instant access to open banking -
 Easily integrate next-generation payments and financial data
 into any app. Build powerful products your customers love.
@@ -25,7 +25,7 @@ width="70%"
 default=true
 >}}
 
-### [SaltPay](https://www.saltpay.co/)
+### SaltPay
 We exist to serve local businesses -
 Fast and secure payment solutions that can help small and medium-sized businesses to better manage and grow their operations.
 {{< figure
@@ -82,7 +82,7 @@ We are primarily looking for spaces that can accommodate around 100-200 people. 
 be interested in hosting us for a night please contact us at: [contact@gophers.london](mailto:contact@gophers.london).
 
 ## Can We Sponsor London Gophers Monetarily?
-We are currently still getting set up, since the post-pandemic restart so do not have a money sponsorship program in place, 
+We are currently still getting set up ever since the post-pandemic restart so do not have a money sponsorship program in place, 
 but plan to in the future. If you'd like to have a conversation about sponsoring London Gophers monetarily please contact us at:
 [contact@gophers.london](mailto:contact@gophers.london).
 
