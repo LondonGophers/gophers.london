@@ -17,3 +17,6 @@ You can apply using the link below!
 ## Unsure?
 Have an idea, but not sure how to put it together? Want to give it a **Go**, but not sure where to start?
 Please contact us at: [contact@gophers.london](mailto:contact@gophers.london). We're here to help!
+
+Why not check out our video on tips and tricks for beginners!
+{{< youtube B1S0Xb9d9Ks >}}
