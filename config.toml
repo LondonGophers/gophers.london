@@ -1,7 +1,0 @@
-baseURL = "https://gophers.london"
-languageCode = "en-gb"
-# disableKinds = ["section", "taxonomy", "taxonomyTerm"]
-title = "London Gophers"
-publishDir = "public"
-theme = "blowfish"
-[params]
