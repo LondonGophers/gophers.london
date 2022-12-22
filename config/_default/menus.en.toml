@@ -21,7 +21,7 @@
 
 [[main]]
   title = "apply"
-  name = "Apply To Speak?"
+  name = "Speaking"
   pageRef = "apply"
   weight = 30
 
@@ -39,6 +39,12 @@
   identifier = "email"
   pre = "envelope"
   url = "mailto:contact@gophers.london"
+  weight = 60
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/c/LondonGophers"
   weight = 70
 
 [[main]]
@@ -70,7 +76,7 @@ weight = 20
 
 [[footer]]
 title = "apply"
-name = "Apply To Speak?"
+name = "Speaking"
 pageRef = "apply"
 weight = 30
 
