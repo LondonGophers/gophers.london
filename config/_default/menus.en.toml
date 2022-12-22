@@ -63,7 +63,6 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-
 [[footer]]
 name = "Code of Conduct"
 pageref = "conduct"
@@ -89,8 +88,3 @@ weight = 40
 name = "Meetup.com"
 url = "https://www.meetup.com/londongophers/"
 weight = 50
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
