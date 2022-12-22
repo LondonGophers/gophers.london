@@ -16,7 +16,7 @@ The Abridged Version:
 
 - **If you encounter an issue, please mail contact@gophers.london or conduct@golang.org**
 
-### Consequences
+### Enforcement
 
 If a member fails to uphold our code of conduct, depending on the severity of the action we will not hesitate
 to remove this member from an event and ban them from further events. 
