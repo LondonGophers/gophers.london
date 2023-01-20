@@ -20,4 +20,4 @@ Why not check out our video on tips and tricks for beginners!
 {{< youtube B1S0Xb9d9Ks >}}
 
 ## Speaker Sign-up Form
-<iframe style="background: rgba(255, 255, 255, 0.7);" src="https://docs.google.com/forms/d/e/1FAIpQLSeirnTIywKx5w3HVLny8pfZALUYmrqDOUTroGeUDESwqmrnSA/viewform?embedded=true" width="640" height="2400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe style="background: rgba(255, 255, 255, 0.7);" src="https://docs.google.com/forms/d/e/1FAIpQLSeirnTIywKx5w3HVLny8pfZALUYmrqDOUTroGeUDESwqmrnSA/viewform?embedded=true" width="100%" height="2400px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
