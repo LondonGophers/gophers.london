@@ -32,14 +32,14 @@ logo = "logo/LONDON-GOPHERS-300.png"
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "images/backgrounds/cover_website_banner_no_logo.png" # used in: hero, and card
+  homepageImage = "images/backgrounds/cover_index_background.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+  layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
   showDate = false
