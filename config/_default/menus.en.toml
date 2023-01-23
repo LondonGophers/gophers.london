@@ -1,0 +1,90 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+[[main]]
+  name = "Code of Conduct"
+  pageref = "conduct"
+  weight = 10
+
+[[main]]
+  name = "Organisers"
+  pageref = "organisers"
+  weight = 20
+
+[[main]]
+  title = "apply"
+  name = "Speaking"
+  pageRef = "apply"
+  weight = 30
+
+[[main]]
+  name = "Sponsors"
+  pageref = "sponsors"
+  weight = 40
+
+[[main]]
+  name = "Meetup.com"
+  url = "https://www.meetup.com/londongophers/"
+  weight = 50
+
+[[main]]
+  identifier = "email"
+  pre = "envelope"
+  url = "mailto:contact@gophers.london"
+  weight = 60
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/c/LondonGophers"
+  weight = 70
+
+[[main]]
+  identifier = "slack"
+  pre = "slack"
+  url = "https://gophers.slack.com/"
+  weight = 80
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/londongophers"
+  weight = 90
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+name = "Code of Conduct"
+pageref = "conduct"
+weight = 10
+
+[[footer]]
+name = "Organisers"
+pageref = "organisers"
+weight = 20
+
+[[footer]]
+title = "apply"
+name = "Speaking"
+pageRef = "apply"
+weight = 30
+
+[[footer]]
+name = "Sponsors"
+pageref = "sponsors"
+weight = 40
+
+[[footer]]
+name = "Meetup.com"
+url = "https://www.meetup.com/londongophers/"
+weight = 50

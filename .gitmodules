@@ -1,3 +1,7 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/LondonGophers/minimal
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
