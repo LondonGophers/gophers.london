@@ -1,6 +1,5 @@
 ---
 title: "Welcome to London, Gopher!"
-date: 2019-05-09T15:28:25+01:00
 ---
 
 London Gophers, aka The Go London User Group (GLUG), are a London-based community for anyone interested in the Go
@@ -31,3 +30,6 @@ them to our [YouTube channel](https://youtube.com/LondonGophers), where you can 
 Membership of London Gophers is managed via our [Meetup page](https://www.meetup.com/LondonGophers/); everyone is
 welcome! We also have an active [Twitter feed](https://twitter.com/LondonGophers) and our members are active in the
 `#london` [Gophers Slack](https://gophers.slack.com/) ([sign-up here](https://invite.slack.golangbridge.org)).
+
+*Photo of London by [Sabrina Mazzeo](https://unsplash.com/@sabrinamazzeo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+on [Unsplash](https://unsplash.com/photos/g-krQzQo9mI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
