@@ -11,6 +11,18 @@ Thank you to our sponsors!
 ## Venue Sponsors
 These are the venues that have hosted us in the past few months. Thank you!
 
+### Paddle
+Paddle offers SaaS companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a merchant of record for our customers, taking away 100% of the pain of payments fragmentation. It’s faster, safer, simpler and, above all, way better.
+{{< figure
+src="images/2023_02_paddle.png"
+alt="Paddle Logo"
+link="https://www.paddle.com/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
 ### TrueLayer
 Instant access to open banking -
 Easily integrate next-generation payments and financial data
@@ -58,19 +70,6 @@ Spend, save and manage your money, all in one place. Open a full UK bank account
 src="images/2022_09_monzo.png"
 alt="Checkout Logo"
 link="https://monzo.com/"
-target="_blank"
-height="70%"
-width="70%"
-default=true
->}}
-
-### Pusher
-Powering realtime experiences for mobile and web -
-Bi-directional hosted APIs that are flexible, scalable and easy to use. We create and maintain complex messaging infrastructure so you can build the realtime features your users need, fast.
-{{< figure
-src="images/2022_07_pusher.png"
-alt="Pusher Logo"
-link="https://pusher.com/"
 target="_blank"
 height="70%"
 width="70%"
