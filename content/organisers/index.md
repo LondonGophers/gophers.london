@@ -1,24 +1,10 @@
 ---
-title: "Organisers"
+title: "The Team"
 layoutBackgroundBlur: false
 showTableOfContents: false
 ---
 
-**Beth Anderson** - 
-<a href="https://hachyderm.io/@betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "mastodon" >}}</a>
-<a href="https://www.linkedin.com/in/betandr/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
-<a href="https://twitter.com/betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
-
-Principal Software Engineer working in Site Reliability Engineering @ BBC
-{{< figure
-src="images/beth_anderson.jpeg"
-target="_blank"
-height="20%"
-width="20%"
-default=true
->}}
-
-**Benjamin Bryant** -
+**Benjamin Bryant** - Organiser -
 <a href="https://www.jaminologist.com/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "link" >}}</a>
 <a href="https://www.linkedin.com/in/benjamin-bryant-dev/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
 <a href="https://mstdn.social/@Jaminologist" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "mastodon" >}}</a>
@@ -33,13 +19,27 @@ width="20%"
 default=true
 >}}
 
-**Bruno Luiz Silva** -
+**Bruno Luiz Silva** - Organiser -
 <a href="https://www.linkedin.com/in/brnluiz/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
 <a href="https://twitter.com/brunoluiz" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
 
 Helping companies to architect and develop software solutions that have lasting impacts ⚡️ Senior Software Engineer @ Checkout.com
 {{< figure
 src="images/bruno_luiz_silva.jpeg"
+target="_blank"
+height="20%"
+width="20%"
+default=true
+>}}
+
+**Beth Anderson** - Welfare Officer - 
+<a href="https://hachyderm.io/@betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "mastodon" >}}</a>
+<a href="https://www.linkedin.com/in/betandr/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
+<a href="https://twitter.com/betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
+
+Principal Software Engineer working in Site Reliability Engineering @ BBC
+{{< figure
+src="images/beth_anderson.jpeg"
 target="_blank"
 height="20%"
 width="20%"

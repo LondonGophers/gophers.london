@@ -8,8 +8,7 @@ grown to over 3,000 members.
 
 ### Contact
 
-For any questions about London Gophers, our Meetups, speaking at one of our events, sponsoring one of our events,
-hosting one of our events, you can contact us at [contact@gophers.london](mailto:contact@gophers.london).
+For any questions about London Gophers, our Meetups, speaking at one of our events, sponsoring or hosting, you can contact us at [contact@gophers.london](mailto:contact@gophers.london).
 
 ### Upcoming Events
 
