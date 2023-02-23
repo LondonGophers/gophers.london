@@ -1,6 +1,8 @@
 ---
-title: "Welcome to London, Gopher!"
+
 ---
+
+## Welcome to London, Gopher!
 
 London Gophers, aka The Go London User Group (GLUG), are a London-based community for anyone interested in the Go
 programming language. London Gophers held their first Meetup on Wednesday, March 27, 2013, and since then the group has
