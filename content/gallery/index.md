@@ -2,22 +2,19 @@
 layoutBackgroundBlur: false
 ---
 
-## 2023
-### @ Paddle - 2023-02-22
+### February 2023 @ Paddle
 
 {{< figure
     src="images/2023_02_22_paddle_collage.png"
 >}}
 
-## 2022
-
-### @ SaltPay - November
+### November 2022 @ SaltPay
 
 {{< figure
     src="images/2022_11_22_saltpay_collage.jpg"
 >}}
 
-### @ Checkout - October
+### October 2022 @ Checkout
 
 {{< figure
     src="images/2022_10_21_checkout.png"
