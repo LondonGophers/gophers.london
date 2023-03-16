@@ -31,33 +31,40 @@
   weight = 40
 
 [[main]]
-  name = "Meetup.com"
-  url = "https://www.meetup.com/londongophers/"
+  name = "Gallery"
+  pageref = "gallery"
   weight = 50
 
 [[main]]
+  name = "Meetup.com"
+  url = "https://www.meetup.com/londongophers/"
+  weight = 60
+
+[[subnavigation]]
   identifier = "email"
   pre = "envelope"
   url = "mailto:contact@gophers.london"
-  weight = 60
+  weight = 10
 
-[[main]]
+[[subnavigation]]
   identifier = "youtube"
   pre = "youtube"
   url = "https://www.youtube.com/c/LondonGophers"
-  weight = 70
+  weight = 20
 
-[[main]]
+[[subnavigation]]
   identifier = "slack"
   pre = "slack"
   url = "https://gophers.slack.com/"
-  weight = 80
+  weight = 30
 
-[[main]]
+[[subnavigation]]
   identifier = "twitter"
   pre = "twitter"
   url = "https://twitter.com/londongophers"
-  weight = 90
+  weight = 40
+
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

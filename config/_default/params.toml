@@ -7,18 +7,18 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = false
 enableCodeCopy = true
 
-disableImageZoom = true
+disableImageZoom = false
 
-logo = "logo/LONDON-GOPHERS-300.png"
+logo = "logo/LONDON-GOPHERS-300-padding-50.png"
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-#defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
+defaultBackgroundImage = "images/backgrounds/cover_index_background.png" # used as default for background images
 
 [header]
   layout = "basic" # valid options: basic, fixed
