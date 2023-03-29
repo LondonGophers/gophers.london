@@ -12,7 +12,7 @@ showTableOfContents: false
 
 Dabbled in Comedy, Acting and Writing now Go Developer Advocate @ Jetbrains
 {{< figure
-src="images/benjamin_bryant.jpeg"
+src="images/benjamin_bryant.jpg"
 target="_blank"
 height="20%"
 width="20%"
@@ -26,6 +26,33 @@ default=true
 Helping companies to architect and develop software solutions that have lasting impacts ⚡️ Senior Software Engineer @ Checkout.com
 {{< figure
 src="images/bruno_luiz_silva.jpeg"
+target="_blank"
+height="20%"
+width="20%"
+default=true
+>}}
+
+**Adelina Simion** - Organiser -
+<a href="https://linktr.ee/adelinasimion" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "link" >}}</a>
+<a href="https://uk.linkedin.com/in/adelina-simion" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
+<a href="https://twitter.com/classic_addetz" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
+
+Tech Evangelist @ Form3 | Gopher | LinkedIn Learning Instructor | Women Who Go (London) organiser 
+{{< figure
+src="images/adelina_simion.jpeg"
+target="_blank"
+height="20%"
+width="20%"
+default=true
+>}}
+
+**Barnaby Keene** - Organiser -
+<a href="https://www.southcla.ws/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "link" >}}</a>
+<a href="https://twitter.com/Southclaws" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
+
+Building at @joinodin. Vibemaxxing in the deep dark depths of (the city of) london.
+{{< figure
+src="images/barnaby_keene.jpg"
 target="_blank"
 height="20%"
 width="20%"

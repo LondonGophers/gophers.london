@@ -11,6 +11,19 @@ Thank you to our sponsors!
 ## Venue Sponsors
 These are the venues that have hosted us in the past few months. Thank you!
 
+### Monzo
+Banking made easy -
+Spend, save and manage your money, all in one place. Open a full UK bank account from your phone, for free.
+{{< figure
+src="images/2022_09_monzo.png"
+alt="Checkout Logo"
+link="https://monzo.com/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
 ### Paddle
 Paddle offers SaaS companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a merchant of record for our customers, taking away 100% of the pain of payments fragmentation. It’s faster, safer, simpler and, above all, way better.
 {{< figure
@@ -44,32 +57,6 @@ Fast and secure payment solutions that can help small and medium-sized businesse
 src="images/2022_11_saltpay.png"
 alt="SaltPay Logo"
 link="https://www.saltpay.co/"
-target="_blank"
-height="70%"
-width="70%"
-default=true
->}}
-
-### Checkout
-Digital payments for global businesses -
-The full stack of payments solutions – built for speed and scale around your unique business needs. All supported by dedicated, local teams, with expertise in every major market.
-{{< figure
-src="images/2022_10_checkout.png"
-alt="Checkout Logo"
-link="https://www.checkout.com/"
-target="_blank"
-height="70%"
-width="70%"
-default=true
->}}
-
-### Monzo
-Banking made easy -
-Spend, save and manage your money, all in one place. Open a full UK bank account from your phone, for free.
-{{< figure
-src="images/2022_09_monzo.png"
-alt="Checkout Logo"
-link="https://monzo.com/"
 target="_blank"
 height="70%"
 width="70%"
