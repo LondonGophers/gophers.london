@@ -21,7 +21,7 @@ and consists of a number of talks and socialising, with food and drink provided.
 {{< article link="/meetups/slot_2/" >}}
 {{< article link="/meetups/slot_3/" >}}
 
-<!--- In the case where there are no meetups
+<!--- In the case where there are no meetups 
 We currently do not have any meetups scheduled. Stay tuned!
 -->
 
