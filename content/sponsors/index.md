@@ -11,6 +11,30 @@ Thank you to our sponsors!
 ## Venue Sponsors
 These are the venues that have hosted us in the past few months. Thank you!
 
+### Pusher
+Powering realtime experiences for mobile and web
+{{< figure
+src="images/2023_05_pusher.png"
+alt="Pusher Logo"
+link="https://pusher.com/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
+### Microsoft Reactor
+Whether you're building your career or the next great idea, Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, and find career mentorship. Virtual events are running around the clock so join us anytime, anywhere! 
+{{< figure
+src="images/2023_04_microsoft.png"
+alt="SaltPay Logo"
+link="https://developer.microsoft.com/en-us/reactor/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
 ### Monzo
 Banking made easy -
 Spend, save and manage your money, all in one place. Open a full UK bank account from your phone, for free.
@@ -30,33 +54,6 @@ Paddle offers SaaS companies a completely different approach to their payments i
 src="images/2023_02_paddle.png"
 alt="Paddle Logo"
 link="https://www.paddle.com/"
-target="_blank"
-height="70%"
-width="70%"
-default=true
->}}
-
-### TrueLayer
-Instant access to open banking -
-Easily integrate next-generation payments and financial data
-into any app. Build powerful products your customers love.
-{{< figure
-src="images/2022_12_truelayer.png"
-alt="TrueLayer Logo"
-link="https://truelayer.com/"
-target="_blank"
-height="70%"
-width="70%"
-default=true
->}}
-
-### SaltPay
-We exist to serve local businesses -
-Fast and secure payment solutions that can help small and medium-sized businesses to better manage and grow their operations.
-{{< figure
-src="images/2022_11_saltpay.png"
-alt="SaltPay Logo"
-link="https://www.saltpay.co/"
 target="_blank"
 height="70%"
 width="70%"

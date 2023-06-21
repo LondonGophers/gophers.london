@@ -1,6 +1,6 @@
 ---
-title: "London Gophers @ Microsoft, April 19th"
-summary: RSVP opens Wednesday, April 5, 2023 12:00 PM
+title: "London Gophers on Meetup.com"
+summary: Click Here To View Our List of Meetups
 showSummary: true
-externalUrl: "https://www.meetup.com/londongophers/events/290256481/"
+externalUrl: "https://www.meetup.com/londongophers/events/"
 ---
