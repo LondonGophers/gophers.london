@@ -1,4 +1,4 @@
 ---
 type: redirect
-redirectURL: 'https://forms.gle/p6S9pPREZMXBXri39'
+redirectURL: 'https://forms.gle/h5GBvgeuZDm8sw5n8'
 ---
