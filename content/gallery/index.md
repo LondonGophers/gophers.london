@@ -32,12 +32,6 @@ src="images/2023_05_31_pusher/collage.jpg"
 src="images/2023_04_19_microsoft/collage.jpg"
 >}}
 
-### April 2023 @ Microsoft
-
-{{< figure
-src="images/2023_04_19_microsoft/collage.png"
->}}
-
 ### March 2023 @ Monzo
 
 {{< figure
