@@ -11,8 +11,49 @@ Thank you to our sponsors!
 ## Venue Sponsors
 These are the venues that have hosted us in the past few months. Thank you!
 
+### Incident.io
+
+Incident management that brings calm to chaos
+With a beautifully simple interface and powerful workflow automation, incident.io ensures entire organizations can seamlessly collaborate and manage incidents without ever leaving Slack.
+
+{{< figure
+src="images/2023_09_incident_io.png"
+alt="Incident.io Logo"
+link="https://incident.io/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
+### Perkbox
+Perkbox is an all-in-one reward and benefits platform designed to support and motivate employees to do their best work, no matter where they are.
+
+{{< figure
+src="images/2023_07_perkbox.png"
+alt="Perkbox Logo"
+link="https://www.perkbox.com/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
+### Signify Technologies
+Global Programming Staffing Solutions. Over the last seven years, our specialist recruitment partners have helped transform businesses globally, from innovative start-ups to household names; supporting with Scala, Rust, and Go roles.
+
+{{< figure
+src="images/2023_06_signify.png"
+alt="Signify Technologies Logo"
+link="https://pusher.com/"
+target="_blank"
+height="70%"
+width="70%"
+default=true
+>}}
+
 ### Pusher
-Powering realtime experiences for mobile and web
+Powering realtime experiences for mobile and web. Bi-directional hosted APIs that are flexible, scalable and easy to use. We create and maintain complex messaging infrastructure, so you can build the realtime features your users need, fast.
 {{< figure
 src="images/2023_05_pusher.png"
 alt="Pusher Logo"
