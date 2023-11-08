@@ -21,7 +21,7 @@
 
 [[main]]
   title = "apply"
-  name = "Speaking"
+  name = "Apply To Speak"
   pageRef = "apply"
   weight = 30
 
@@ -59,9 +59,9 @@
   weight = 30
 
 [[subnavigation]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/londongophers"
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/company/90601734"
   weight = 40
 
 
@@ -82,7 +82,7 @@ weight = 20
 
 [[footer]]
 title = "apply"
-name = "Speaking"
+name = "Apply To Speak"
 pageRef = "apply"
 weight = 30
 
