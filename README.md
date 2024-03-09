@@ -33,3 +33,7 @@ WARN 2022/12/21 17:52:19 Module "blowfish" is not compatible with this Hugo vers
 project blowfish
 ```
 So yes, for now your guess is as good as mine. 
+
+**This has been addressed by this issue https://github.com/LondonGophers/gophers.london/issues/44**
+
+The fix is to use `git submodule update --remote --merge`
