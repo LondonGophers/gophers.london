@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = true
 
-disableImageZoom = false
+disableImageZoom = true
 
 logo = "logo/LONDON-GOPHERS-300-padding-50.png"
 # mainSections = ["section1", "section2"]
