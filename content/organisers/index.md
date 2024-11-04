@@ -54,13 +54,24 @@ width="20%"
 default=true
 >}}
 
+**Fergus Oakley** - Organiser -
+<a href="https://www.linkedin.com/in/fergus-oakley/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
+
+Go Developer - Storing user passwords in cleartext since 2018
+{{< figure
+src="images/fergus_oakley.jpg"
+target="_blank"
+height="20%"
+width="20%"
+default=true
+>}}
+
 **Anna Akenteva** - Organiser -
 <a href="https://www.linkedin.com/in/anna-akenteva/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
 
-Software Engineer - Platform @ Dexory
-
+Senior Software Engineer - Platform @ Dexory
 {{< figure
-src="images/anna_akenteva.png"
+src="images/anna_akenteva.jpg"
 target="_blank"
 height="20%"
 width="20%"
