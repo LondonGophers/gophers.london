@@ -14,33 +14,6 @@ default=true
 link="https://bit.ly/3Q9jsu0"
 >}}
 
-**Bruno Luiz Silva** - Organiser -
-<a href="https://www.linkedin.com/in/brnluiz/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
-<a href="https://twitter.com/brunoluiz" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
-
-Helping companies to architect and develop software solutions that have lasting impacts ⚡️ Senior Software Engineer @ Checkout.com
-{{< figure
-src="images/bruno_luiz_silva.jpeg"
-target="_blank"
-height="20%"
-width="20%"
-default=true
->}}
-
-**Adelina Simion** - Organiser -
-<a href="https://linktr.ee/adelinasimion" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "link" >}}</a>
-<a href="https://uk.linkedin.com/in/adelina-simion" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
-<a href="https://twitter.com/classic_addetz" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
-
-Education Engineer @ Spectro Cloud | Gopher | LinkedIn Learning Instructor | Women Who Go (London) organiser 
-{{< figure
-src="images/adelina_simion.jpeg"
-target="_blank"
-height="20%"
-width="20%"
-default=true
->}}
-
 **Barnaby Keene** - Organiser -
 <a href="https://www.southcla.ws/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "link" >}}</a>
 <a href="https://twitter.com/Southclaws" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
@@ -78,7 +51,7 @@ width="20%"
 default=true
 >}}
 
-**Beth Anderson** - Welfare Officer - 
+**Beth Anderson** - Organiser - 
 <a href="https://hachyderm.io/@betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "mastodon" >}}</a>
 <a href="https://www.linkedin.com/in/betandr/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
 <a href="https://twitter.com/betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
@@ -94,4 +67,4 @@ default=true
 
 ### Organiser Alumni
 
-Benjamin Bryant, Dom Green, Antonio Troina, Kat Zień, Irina Bednova, Matt Heath, Paul Jolly, Patrick O. S. Kuti, Florin Pățan
+Adelina Simion, Bruno Luiz Silva, Benjamin Bryant, Dom Green, Antonio Troina, Kat Zień, Irina Bednova, Matt Heath, Paul Jolly, Patrick O. S. Kuti, Florin Pățan
