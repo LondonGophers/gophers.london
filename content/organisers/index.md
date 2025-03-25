@@ -1,5 +1,5 @@
 ---
-title: "The London Gophers Team"
+title: "The Team"
 layoutBackgroundBlur: false
 showTableOfContents: false
 ---
@@ -67,7 +67,7 @@ default=true
 **Beth Anderson** - Organiser - 
 <a href="https://hachyderm.io/@betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "mastodon" >}}</a>
 <a href="https://www.linkedin.com/in/betandr/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
-<a href="https://twitter.com/betandr" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "twitter" >}}</a>
+<a href="https://bet.andr.io/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "link" >}}</a>
 
 Principal Software Engineer working in Site Reliability Engineering @ BBC
 
