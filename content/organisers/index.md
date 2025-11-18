@@ -53,7 +53,7 @@ default=true
 **Anna Akenteva** - Organiser -
 <a href="https://www.linkedin.com/in/anna-akenteva/" target="_blank" style="color: #ffffff; text-decoration: none;">{{< icon "linkedin" >}}</a>
 
-Senior Software Engineer - Platform @ Dexory
+Staff Software Engineer - Platform @ Dexory
 
 ---
 
